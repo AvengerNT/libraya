@@ -1,0 +1,10 @@
+{
+  "john": {
+    "password": "hashed_or_plain_password",
+    "borrowed": []
+  },
+  "alice": {
+    "password": "securepassword",
+    "borrowed": ["Harry Potter and the Sorcerer's Stone"]
+  }
+}
